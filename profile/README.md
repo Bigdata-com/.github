@@ -24,6 +24,8 @@ Everything here is built on top of our enterprise-grade API and the official Big
 - **Narrative Mining**: Track story evolution across markets and time
 - **Thematic Screening**: Quantify company exposure to investment themes  
 - **Risk Analysis**: Systematic risk assessment with custom taxonomies
+- **Advanced Query Building**: Construct complex, multi-dimensional queries with concurrent search support
+- **LLM Integration**: Seamless access to leading large language models (LLMs) to transform unstructured data into structured insights
 
 *Also available on [PyPI](https://pypi.org/project/bigdata-research-tools) for seamless integration.*
 
